@@ -1,0 +1,12 @@
+.job {
+    display: flex;
+    justify-content: center;
+}
+
+.jobpost {
+    width: 550px;
+    border-radius: 25px;
+    padding: 20px;
+    background-color: darkolivegreen;
+    color: white;
+}

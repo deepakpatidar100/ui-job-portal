@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card {
+    border: 2px solid rgb(177, 166, 166);
+    padding: 40px;
+    display: flex;
+    /* justify-content:space-around; */
+    width: 30%;
+    
+
+    background-color: rgb(212, 151, 198);
+    box-shadow: 2px 2px black;
+}
+
+.cardd {
+    width: 50%;
+    border: 1px solid gray;
+    padding: 15px;
+    background-color: rgb(235, 232, 225);
+}
+
+.heart {
+    font-size: 30px;
+    float: right;
+}
+
+
+.title {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.c_name {
+    font-size: 21px;
+}
+
+.log {
+    font-size: 15px;
+    margin-right: 5px;
+
+}
+
+div span {
+    font-size: 18px;
+    padding: 20px 16px;
+    font-weight: bold;
+
+}
+
+.nav {
+    overflow: hidden;
+    background: #333;
+    height: 55px;
+
+}
+
+div span:hover {
+    color: #000;
+    background: #ddd;
+    color: lightblue;
+}
+
+
+.page {
+    color: white;
+
+}
